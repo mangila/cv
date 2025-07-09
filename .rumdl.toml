@@ -1,0 +1,7 @@
+[global]
+exclude = [
+    "styles",
+]
+
+[MD013]
+line-length = 999

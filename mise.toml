@@ -1,0 +1,31 @@
+[tools]
+pandoc = "3.12.1"
+python = "3.15.0"
+rumdl = "0.2.79"
+vale = "3.24.0"
+
+[env]
+_.python.venv = { path = ".venv", create = true }
+
+#[tasks.pdfengine]
+#description = "install pdf engine"
+#run = "sudo apt install texlive-xetex"
+
+[tasks.convert]
+description = "convert markdown files to .pdf"
+env = { IN = "README.md", OUT = "CV.pdf" }
+run = "python convert.py $IN $OUT"
+
+[tasks.commit]
+description = "Add all, amend commit and force push"
+run = "git add . && git commit --amend --no-edit && git push --force-with-lease"
+
+[tasks.format]
+description = "format markdown files"
+run = "mise fmt && rumdl fmt ."
+
+[tasks.lint]
+description = "lint markdown files"
+run = "rumdl check . && vale README.md"
+
+
