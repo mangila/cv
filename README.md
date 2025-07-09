@@ -1,3 +1,3 @@
 # My CV
 
-For business queries just send me an email
+For business queries email me
