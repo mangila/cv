@@ -19,6 +19,7 @@
 
 ### Software Engineer | Omegapoint, Stockholm
 **August 2024 – February 2025**
+
 - Contribute to tech talks about gRPC and Golang
 - Develop and maintain in-house cloud based projects
 - Upskilling in technologies - AWS, Golang, gRPC, Kubernetes
@@ -49,6 +50,7 @@
 
 **Higher Vocational Degree in Java Developer**  
 *IT-Högskolan, Stockholm – 2018- 2020*
+
 - Focus on Java and its ecosystem
 - React.js to build websites and consume backend APIs
 
