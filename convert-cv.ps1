@@ -11,6 +11,7 @@ try
 {
     Write-Host "Converting $inputFile to $outputFile..."
     pandoc $inputFile `
+        -f gfm `
         -o $outputFile `
         --pdf-engine=xelatex `
         -V geometry:"margin=1cm" `
