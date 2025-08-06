@@ -1,30 +1,42 @@
 # Erik Olsson
 
 ## Personal Information
+
 - **Email**: olsson.erik1993@gmail.com
 - **Phone**: +46 736 791 310
 - **GitHub**: [github.com/mangila](https://github.com/mangila)
 - **Location**: Stockholm, Sweden
 
 ## Skills
+
 - Java, Javascript, Typescript, Golang, C#
 - MS-SQL, Postgres, MongoDB, Redis, CosmosDB, DynamoDB
 - Spring, .NET, Gin, React, Next.js
 - REST, SOAP, gRPC
 - Kubernetes, Jenkins
 - AWS, Azure
+- Agile, Scrum, Kanban
+- Git, Docker, CI/CD
+- Linux, Windows
+- English, Swedish
 - to be continued... (ask if you miss something cloud service or whatever)
 
 ## Work Experience
 
 ### Software Engineer | Omegapoint, Stockholm
+
 **August 2024 – February 2025**
 
 - Contribute to tech talks about gRPC and Golang
 - Develop and maintain in-house cloud based projects
+    - Agile Team
+    - Scrum Master
 - Upskilling in technologies - AWS, Golang, gRPC, Kubernetes
+- GitHub
+- Azure DevOps
 
 ### Software Engineer | Tele2, Stockholm
+
 **January 2023 – August 2024**
 
 - Developed a scheduled job that consumes byte stream from REST API and send to SFTP server
@@ -36,8 +48,12 @@
 - Deploy software to an on-prem Kubernetes Cluster
 - Deploy software on dedicated ad-hoc servers
 - Deploy software to AWS
+- Agile Team
+- Cross-functional team
+- Gitlab
 
 ### Software Engineer | Nordea, Stockholm
+
 **November 2021 – January 2023**
 
 - Develop API for a consuming Robotic Process Automation (RPA)
@@ -45,6 +61,8 @@
 - Deploy software to an on-prem Kubernetes Cluster
 - Maintain internal libaries
 - Write unit and integration tests
+- Agile Team
+- Jira, Confluence, Bitbucket
 
 ## Education
 
@@ -55,9 +73,13 @@
 - React.js to build websites and consume backend APIs
 
 ## Languages
+
 - **Svenska**: Native
 - **English**: Fluent
 
 ## Certifications
-- **AWS Certified Cloud Practitioner** – Amazon Web Services, 2024 - [Verification Link](https://www.credly.com/badges/99053c41-2556-4869-8275-e01ba43f3336)
-- **Oracle Certified Foundations Associate** – Oracle, 2019 - [Verification Link](https://www.credly.com/badges/3add0bec-fe20-407c-ba69-34a3d29ad343)
+
+- **AWS Certified Cloud Practitioner** – Amazon Web Services,
+  2024 - [Verification Link](https://www.credly.com/badges/99053c41-2556-4869-8275-e01ba43f3336)
+- **Oracle Certified Foundations Associate** – Oracle,
+  2019 - [Verification Link](https://www.credly.com/badges/3add0bec-fe20-407c-ba69-34a3d29ad343)
