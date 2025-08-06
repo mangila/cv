@@ -28,7 +28,7 @@
 **August 2024 – February 2025**
 
 - Contribute to tech talks about gRPC and Golang
-- Develop and maintain in-house cloud based projects
+- Develop and maintain in-house cloud-based projects
     - Agile Team
     - Scrum Master
 - Upskilling in technologies - AWS, Golang, gRPC, Kubernetes
@@ -39,14 +39,14 @@
 
 **January 2023 – August 2024**
 
-- Developed a scheduled job that consumes byte stream from REST API and send to SFTP server
-- Developed a scheduled job that consumes rows from a SQL database that converts to CSV and send to REST API
-- Developed REST API for call-center status synchronization with an combined admin UI
+- Developed a scheduled job that consumes byte stream from REST API and sends to SFTP server
+- Developed a scheduled job that consumes rows from a SQL database that converts to CSV and sends to REST API
+- Developed REST API for call-center status synchronization with a combined admin UI
 - Developed API that consumes SOAP for call-center queue management with a client-facing UI
 - Write unit and integration test
 - Build CI/CD pipelines
 - Deploy software to an on-prem Kubernetes Cluster
-- Deploy software on dedicated ad-hoc servers
+- Deploy software on dedicated adhoc servers
 - Deploy software to AWS
 - Agile Team
 - Cross-functional team
@@ -59,7 +59,7 @@
 - Develop API for a consuming Robotic Process Automation (RPA)
 - Maintain and develop large scale finance project
 - Deploy software to an on-prem Kubernetes Cluster
-- Maintain internal libaries
+- Maintain internal libraries
 - Write unit and integration tests
 - Agile Team
 - Jira, Confluence, Bitbucket
