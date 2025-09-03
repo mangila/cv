@@ -7,19 +7,15 @@
 - **GitHub**: [github.com/mangila](https://github.com/mangila)
 - **Location**: Stockholm, Sweden
 
-## Skills
+## About
 
-- Java, Javascript, Typescript, Golang, C#
-- MS-SQL, Postgres, MongoDB, Redis, CosmosDB, DynamoDB
-- Spring, .NET, Gin, React, Next.js
-- REST, SOAP, gRPC
-- Kubernetes, Jenkins
-- AWS, Azure
-- Agile, Scrum, Kanban
-- Git, Docker, CI/CD
-- Linux, Windows
-- English, Swedish
-- to be continued... (ask if you miss something cloud service or whatever)
+I am a software engineer with a passion for building great software.
+
+Passionate about learning new technologies and sharing knowledge.
+
+I am looking for a new challenge and a new opportunity to grow in my role as a software engineer.
+
+I build most of my projects in Java or C#, but I am always open to learning new technologies.
 
 ## Work Experience
 
@@ -34,6 +30,7 @@
 - Upskilling in technologies - AWS, Golang, gRPC, Kubernetes
 - GitHub
 - Azure DevOps
+- C#, .NET, React, Next.js, Vite, Golang, Java
 
 ### Software Engineer | Tele2, Stockholm
 
@@ -51,6 +48,7 @@
 - Agile Team
 - Cross-functional team
 - Gitlab
+- Java, Spring, C#, .NET, React, Golang
 
 ### Software Engineer | Nordea, Stockholm
 
@@ -63,6 +61,7 @@
 - Write unit and integration tests
 - Agile Team
 - Jira, Confluence, Bitbucket
+- Java, Spring
 
 ## Education
 
