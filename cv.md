@@ -23,6 +23,9 @@ I build most of my projects in Java or C#, but I am always open to learning new 
 
 **August 2024 – February 2025**
 
+Omegapoint is an it-consulting company with a special niche for it-security that provides its services to companies in
+Sweden.
+
 - Contribute to tech talks about gRPC and Golang
 - Develop and maintain in-house cloud-based projects
     - Agile Team
@@ -35,6 +38,11 @@ I build most of my projects in Java or C#, but I am always open to learning new 
 ### Software Engineer | Tele2, Stockholm
 
 **January 2023 – August 2024**
+
+Tele2 is a telecommunications company that provides telecommunication services to Sweden and Baltic countries.
+
+I was in the call-center department and worked on a number of projects, both greenfield and brownfield.
+Avaya, Cisco, Genesys Cloud and other call-center vendors were involved.
 
 - Developed a scheduled job that consumes byte stream from REST API and sends to SFTP server
 - Developed a scheduled job that consumes rows from a SQL database that converts to CSV and sends to REST API
@@ -53,6 +61,10 @@ I build most of my projects in Java or C#, but I am always open to learning new 
 ### Software Engineer | Nordea, Stockholm
 
 **November 2021 – January 2023**
+
+Nordea is a bank in Sweden that provides its services to the Nordic countries.
+
+I was in the private banking department and worked on a number of projects, both greenfield and brownfield.
 
 - Develop API for a consuming Robotic Process Automation (RPA)
 - Maintain and develop large scale finance project
