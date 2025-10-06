@@ -44,7 +44,7 @@ Tele2 is a telecommunications company that provides telecommunication services t
 I was in the call-center department and worked on a number of projects, both greenfield and brownfield.
 Avaya, Cisco, Genesys Cloud and other call-center vendors were involved.
 
-- Developed a scheduled job that consumes byte stream from REST API and sends to SFTP server
+- Developed a scheduled job that consumes byte stream from REST API and sends to SFTP server with data encryption using OpenPGP
 - Developed a scheduled job that consumes rows from a SQL database that converts to CSV and sends to REST API
 - Developed REST API for call-center status synchronization with a combined admin UI
 - Developed API that consumes SOAP for call-center queue management with a client-facing UI
