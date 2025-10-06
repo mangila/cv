@@ -1,96 +1,96 @@
 # Erik Olsson
 
-## Personal Information
+## Contact Information
 
 - **Email**: olsson.erik1993@gmail.com
 - **Phone**: +46 736 791 310
 - **GitHub**: [github.com/mangila](https://github.com/mangila)
 - **Location**: Stockholm, Sweden
 
-## About
+## Professional Summary
 
-I am a software engineer with a passion for building great software.
+Results-driven Software Engineer with 4+ years of experience in full-stack development, cloud infrastructure, and
+enterprise software solutions. Proven expertise in Java, C#, .NET, and modern cloud technologies including AWS, Azure,
+and Kubernetes. Strong background in agile methodologies, CI/CD implementation, and delivering scalable solutions for
+telecommunications, financial services, and consulting sectors.
 
-Passionate about learning new technologies and sharing knowledge.
-
-I am looking for a new challenge and a new opportunity to grow in my role as a software engineer.
-
-I build most of my projects in Java or C#, but I am always open to learning new technologies.
-
-## Work Experience
+## Professional Experience
 
 ### Software Engineer | Omegapoint, Stockholm
 
 **August 2024 – February 2025**
 
-Omegapoint is an it-consulting company with a special niche for it-security that provides its services to companies in
+Omegapoint is an IT consulting company specializing in IT security, providing enterprise solutions to companies across
 Sweden.
 
-- Contribute to tech talks about gRPC and Golang
-- Develop and maintain in-house cloud-based projects
-    - Agile Team
-    - Scrum Master
-- Upskilling in technologies - AWS, Golang, gRPC, Kubernetes
-- GitHub
-- Azure DevOps
-- C#, .NET, React, Next.js, Vite, Golang, Java
+- Delivered technical presentations on gRPC and Golang to engineering teams, promoting knowledge sharing and best
+  practices
+- Developed and maintained cloud-based projects using modern DevOps practices
+- Served as Scrum Master, agile ceremonies, and ensuring team productivity
+- Enhanced technical proficiency in AWS, Golang, gRPC, and Kubernetes through continuous learning and hands-on
+  implementation
+- GitHub and Azure DevOps for version control and project management
+- **Technologies**: C#, .NET, React, Next.js, Vite, Golang, Java, AWS, Kubernetes
 
 ### Software Engineer | Tele2, Stockholm
 
 **January 2023 – August 2024**
 
-Tele2 is a telecommunications company that provides telecommunication services to Sweden and Baltic countries.
+Tele2 is a leading telecommunications company providing services to Sweden and the Baltic countries.
 
-I was in the call-center department and worked on a number of projects, both greenfield and brownfield.
-Avaya, Cisco, Genesys Cloud and other call-center vendors were involved.
+Worked in the call-center operations department on greenfield and brownfield projects integrating with Avaya, Cisco, and
+Genesys Cloud platforms.
 
-- Developed a scheduled job that consumes byte stream from REST API and sends to SFTP server with data encryption using OpenPGP
-- Developed a scheduled job that consumes rows from a SQL database that converts to CSV and sends to REST API
-- Developed REST API for call-center status synchronization with a combined admin UI
-- Developed API that consumes SOAP for call-center queue management with a client-facing UI
-- Write unit and integration test
-- Build CI/CD pipelines
-- Deploy software to an on-prem Kubernetes Cluster
-- Deploy software on dedicated adhoc servers
-- Deploy software to AWS
-- Agile Team
-- Cross-functional team
-- Gitlab
-- Java, Spring, C#, .NET, React, Golang
+- Engineered a scheduled job to consume media files from REST APIs and transfer to SFTP servers with OpenPGP end-to-end
+  encryption and digital signing
+- Built automated data pipeline that extracts SQL database records, transforms them to CSV format, and delivers to
+  external REST APIs
+- Developed REST API for real-time call-center status synchronization with administrative dashboard
+- Created SOAP-based API for call-center queue management with customer-facing user interface
+- Authored comprehensive unit and integration tests to ensure code quality and reliability
+- Designed and implemented CI/CD pipelines for automated testing and deployment
+- Deployed applications to on-premises Kubernetes clusters, dedicated servers, and AWS cloud infrastructure
+- Collaborated effectively in agile, cross-functional teams using GitLab for version control
+- **Technologies**: Java, Spring, C#, .NET, React, Golang, Kubernetes, AWS
 
 ### Software Engineer | Nordea, Stockholm
 
 **November 2021 – January 2023**
 
-Nordea is a bank in Sweden that provides its services to the Nordic countries.
+Nordea is one of the largest financial services groups in Northern Europe, serving customers across the Nordic region.
 
-I was in the private banking department and worked on a number of projects, both greenfield and brownfield.
+Contributed to the private banking department on multiple greenfield and brownfield projects.
 
-- Develop API for a consuming Robotic Process Automation (RPA)
-- Maintain and develop large scale finance project
-- Deploy software to an on-prem Kubernetes Cluster
-- Maintain internal libraries
-- Write unit and integration tests
-- Agile Team
-- Jira, Confluence, Bitbucket
-- Java, Spring
+- Developed scheduled jobs for data integration with Robotic Process Automation (RPA) systems
+- Maintained and enhanced large-scale financial applications serving critical banking operations
+- Designed and implemented new REST endpoints to support business requirements
+- Managed library version upgrades and dependency management for enterprise applications
+- Developed comprehensive unit and integration test suites to ensure application stability, future-proof, and security
+- Maintained internal shared libraries used across multiple projects
+- Performed code refactoring to improve maintainability and performance
+- Created technical documentation for systems and processes
+- Provided troubleshooting and support for production issues
+- Built CI/CD pipelines for automated deployment to on-premises Kubernetes clusters
+- Worked collaboratively in agile teams using Jira, Confluence, and Bitbucket
+- **Technologies**: Java, Spring Boot, Kubernetes
 
 ## Education
 
 **Higher Vocational Degree in Java Developer**  
-*IT-Högskolan, Stockholm – 2018- 2020*
+*IT-Högskolan, Stockholm – 2018–2020*
 
-- Focus on Java and its ecosystem
-- React.js to build websites and consume backend APIs
+- Specialized in Java programming and the Java ecosystem
+- Completed coursework in web development using React.js and backend API integration
+- Gained hands-on experience with full-stack development principles
 
 ## Languages
 
-- **Svenska**: Native
+- **Swedish**: Native
 - **English**: Fluent
 
 ## Certifications
 
 - **AWS Certified Cloud Practitioner** – Amazon Web Services,
-  2024 - [Verification Link](https://www.credly.com/badges/99053c41-2556-4869-8275-e01ba43f3336)
+  2024 - [Verify](https://www.credly.com/badges/99053c41-2556-4869-8275-e01ba43f3336)
 - **Oracle Certified Foundations Associate** – Oracle,
-  2019 - [Verification Link](https://www.credly.com/badges/3add0bec-fe20-407c-ba69-34a3d29ad343)
+  2019 - [Verify](https://www.credly.com/badges/3add0bec-fe20-407c-ba69-34a3d29ad343)
