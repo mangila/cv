@@ -9,7 +9,8 @@
 
 ## Professional Summary
 
-I'm a "You build it, you run it." type of engineer, that most of the time takes on the whole chain of product development,
+I'm a "You build it, you run it." type of engineer, that most of the time takes on the whole chain of product
+development,
 from requirements gathering to deployment and maintenance.
 
 Results-driven Software Engineer with 4+ years of experience in full-stack development, cloud infrastructure, and
@@ -18,6 +19,16 @@ and Kubernetes. Strong background in agile methodologies, CI/CD implementation, 
 telecommunications, financial services, and consulting sectors.
 
 ## Professional Experience
+
+### Open Source Contributor | Stockholm
+
+** August 2020—Present**
+
+Developing and maintaining open-source projects for the community.
+
+- Maintaining and improving existing libraries and tools
+- Contributing to documentation and tutorials
+- Providing feedback and guidance on new features
 
 ### Software Engineer | Omegapoint, Stockholm
 
