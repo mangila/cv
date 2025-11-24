@@ -22,7 +22,7 @@ telecommunications, financial services, and consulting sectors.
 
 ### Open Source Contributor | Stockholm
 
-** August 2020—Present**
+**August 2020—Present**
 
 Developing and maintaining open-source projects for the community.
 
