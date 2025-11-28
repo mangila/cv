@@ -4,7 +4,6 @@
 
 - **Email**: olsson.erik1993@gmail.com
 - **Phone**: +46 736 791 310
-- **GitHub**: [github.com/mangila](https://github.com/mangila)
 - **Location**: Stockholm, Sweden
 
 ## Professional Summary
@@ -44,6 +43,7 @@ Sweden.
 - Enhanced technical proficiency in AWS, Golang, gRPC, and Kubernetes through continuous learning and hands-on
   implementation
 - GitHub and Azure DevOps for version control and project management
+- Projects that included the whole organization
 - **Technologies**: C#, .NET, React, Next.js, Vite, Golang, Java, AWS, Kubernetes
 
 ### Forward Deployed Engineer | Tele2, Stockholm
@@ -65,6 +65,8 @@ Genesys Cloud platforms.
 - Designed and implemented CI/CD pipelines for automated testing and deployment
 - Deployed applications to on-premises Kubernetes clusters, dedicated servers, and AWS cloud infrastructure
 - Collaborated effectively in agile, cross-functional teams using GitLab for version control
+- Projects that include a whole company call-center operation
+- Projects that include mission-critical government operations
 - **Technologies**: Java, Spring, C#, .NET, React, Golang, Kubernetes, AWS
 
 ### Software Engineer | Nordea, Stockholm
@@ -86,6 +88,7 @@ Contributed to the private banking department on multiple greenfield and brownfi
 - Provided troubleshooting and support for production issues
 - Built CI/CD pipelines for automated deployment to on-premises Kubernetes clusters
 - Worked collaboratively in agile teams using Jira, Confluence, and Bitbucket
+- Projects that include ultra-high net-worth customers
 - **Technologies**: Java, Spring Boot, Kubernetes
 
 ## Education
