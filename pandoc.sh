@@ -10,7 +10,7 @@ fi
 
 echo "Converting $inputFile to $outputFile..."
 
-pandoc "$inputFile" -o "$outputFile" --pdf-engine=xelatex -V geometry:"margin=1cm" -V papersize=legal --standalone
+pandoc "$inputFile" -o "$outputFile" --pdf-engine=xelatex -V geometry:"margin=1cm" -V mainfont="DejaVu Sans" -V papersize=legal
 
 if [ -f "$outputFile" ]; then
     echo "Conversion completed successfully!"
