@@ -13,7 +13,7 @@ development,
 from requirements gathering to deployment and maintenance.
 
 Results-driven Software Engineer with 5+ years of experience in full-stack development, cloud infrastructure, and
-enterprise software solutions. Proven expertise in Java, C#, .NET, and modern cloud technologies including AWS, Azure,
+enterprise software solutions. Proven expertise in Java, Spring Boot, C#, .NET, and modern cloud technologies including AWS, Azure,
 and Kubernetes. Strong background in agile methodologies, CI/CD implementation, and delivering scalable solutions for
 telecommunications, financial services, and consulting sectors.
 
