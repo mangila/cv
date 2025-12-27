@@ -1,6 +1,6 @@
 #!/bin/bash
 
-inputFile="cv.md"
+inputFile="README.md"
 outputFile="CV.pdf"
 
 if [ ! -f "$inputFile" ]; then
