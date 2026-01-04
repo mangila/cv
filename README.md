@@ -9,11 +9,10 @@
 ## Professional Summary
 
 I'm a "You build it, you run it." type of engineer, that most of the time takes on the whole chain of product
-development,
-from requirements gathering to deployment and maintenance.
+development, from requirements gathering to deployment and maintenance.
 
 Results-driven Software Engineer with 5+ years of experience in full-stack development, cloud infrastructure, and
-enterprise software solutions. Proven expertise in Java, Spring Boot, C#, .NET, and modern cloud technologies including AWS, Azure,
+enterprise software solutions. Proven expertise in Java, Spring Boot, C#, .NET, React, Next.js, and modern cloud technologies including AWS, Azure,
 and Kubernetes. Strong background in agile methodologies, CI/CD implementation, and delivering scalable solutions for
 telecommunications, financial services, and consulting sectors.
 
@@ -36,6 +35,7 @@ Developing and maintaining open-source projects for the community.
 Omegapoint is an IT consulting company specializing in IT security, providing enterprise solutions to companies across
 Sweden.
 
+- Projects that included the whole organization
 - Delivered technical presentations on gRPC and Golang to engineering teams, promoting knowledge sharing and best
   practices
 - Developed and maintained cloud-based projects using modern DevOps practices
@@ -43,7 +43,6 @@ Sweden.
 - Enhanced technical proficiency in AWS, Golang, gRPC, and Kubernetes through continuous learning and hands-on
   implementation
 - GitHub and Azure DevOps for version control and project management
-- Projects that included the whole organization
 - **Technologies**: C#, .NET, React, Next.js, Vite, Golang, Java, AWS, Kubernetes
 
 ### Forward Deployed Engineer | Tele2, Stockholm
@@ -55,6 +54,8 @@ Tele2 is a leading telecommunications company providing services to Sweden and t
 Worked in the call-center operations department on greenfield and brownfield projects integrating with Avaya, Cisco, and
 Genesys Cloud platforms.
 
+- Projects that include whole companies call-center operation
+- Projects that include mission-critical government operations
 - Engineered a scheduled job to consume media files from REST APIs and transfer to SFTP servers with OpenPGP end-to-end
   encryption and digital signing
 - Built automated data pipeline that extracts SQL database records, transforms them to CSV format, and delivers to
@@ -65,8 +66,6 @@ Genesys Cloud platforms.
 - Designed and implemented CI/CD pipelines for automated testing and deployment
 - Deployed applications to on-premises Kubernetes clusters, dedicated servers, and AWS cloud infrastructure
 - Collaborated effectively in agile, cross-functional teams using GitLab for version control
-- Projects that include a whole company call-center operation
-- Projects that include mission-critical government operations
 - **Technologies**: Java, Spring, C#, .NET, React, Golang, Kubernetes, AWS
 
 ### Software Engineer | Nordea, Stockholm
@@ -77,6 +76,7 @@ Nordea is one of the largest financial services groups in Northern Europe, servi
 
 Contributed to the private banking department on multiple greenfield and brownfield projects.
 
+- Projects that include ultra-high net-worth customers
 - Developed scheduled jobs for data integration with Robotic Process Automation (RPA) systems
 - Maintained and enhanced large-scale financial applications serving critical banking operations
 - Designed and implemented new REST endpoints to support business requirements
@@ -88,7 +88,6 @@ Contributed to the private banking department on multiple greenfield and brownfi
 - Provided troubleshooting and support for production issues
 - Built CI/CD pipelines for automated deployment to on-premises Kubernetes clusters
 - Worked collaboratively in agile teams using Jira, Confluence, and Bitbucket
-- Projects that include ultra-high net-worth customers
 - **Technologies**: Java, Spring Boot, Kubernetes
 
 ## Education
@@ -99,6 +98,7 @@ Contributed to the private banking department on multiple greenfield and brownfi
 - Specialized in Java programming and the Java ecosystem
 - Completed coursework in web development using React.js and backend API integration
 - Gained hands-on experience with full-stack development principles
+- Internships at Försvarsmakten (Swedish Armed Forces) and Artportable AB
 
 ## Languages
 
