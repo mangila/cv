@@ -51,7 +51,7 @@ Sweden.
 
 Tele2 is a leading telecommunications company providing services to Sweden and the Baltic countries.
 
-Worked in the call-center operations department on greenfield and brownfield projects integrating with Avaya, Cisco, and
+Operated in the call-center operations department on greenfield and brownfield projects integrating with Avaya, Cisco, and
 Genesys Cloud platforms.
 
 - Projects that include whole companies call-center operation
@@ -74,7 +74,7 @@ Genesys Cloud platforms.
 
 Nordea is one of the largest financial services groups in Northern Europe, serving customers across the Nordic region.
 
-Contributed to the private banking department on multiple greenfield and brownfield projects.
+Operated in the private banking department on multiple greenfield and brownfield projects.
 
 - Projects that include ultra-high net-worth customers
 - Developed scheduled jobs for data integration with Robotic Process Automation (RPA) systems
