@@ -7,7 +7,7 @@
 - **Location**: Stockholm, Sweden
 
 ## Links
-- **Github** https://github.com/mangila
+- **Github**: https://github.com/mangila
 
 ## Professional Summary
 
