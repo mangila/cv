@@ -112,7 +112,5 @@ Operated in the private banking department on multiple greenfield and brownfield
 
 ## Certifications
 
-- **AWS Certified Cloud Practitioner** – Amazon Web Services,
-  2024 - [Verify](https://www.credly.com/badges/99053c41-2556-4869-8275-e01ba43f3336)
-- **Oracle Certified Foundations Associate** – Oracle,
-  2019 - [Verify](https://www.credly.com/badges/3add0bec-fe20-407c-ba69-34a3d29ad343)
+- **AWS Certified Cloud Practitioner** – Amazon Web Services, 2024
+- **Oracle Certified Foundations Associate** – Oracle, 2019
