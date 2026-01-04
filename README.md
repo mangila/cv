@@ -51,14 +51,14 @@ Sweden.
 
 Tele2 is a leading telecommunications company providing services to Sweden and the Baltic countries.
 
-Operated in the call-center operations department on greenfield and brownfield projects integrating with Avaya, Cisco, and
+Operated in the call-center department on greenfield and brownfield projects integrating with Avaya, Cisco, and
 Genesys Cloud platforms.
 
 - Projects that include whole companies call-center operation
 - Projects that include mission-critical government operations
 - Engineered a scheduled job to consume media files from REST APIs and transfer to SFTP servers with OpenPGP end-to-end
   encryption and digital signing
-- Built automated data pipeline that extracts SQL database records, transforms them to CSV format, and delivers to
+- Built automated data pipelines that extracts SQL database records, transforms them to CSV format, and delivers to
   external REST APIs
 - Developed REST API for real-time call-center status synchronization with administrative dashboard
 - Created SOAP-based API for call-center queue management with customer-facing user interface
