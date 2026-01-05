@@ -8,7 +8,7 @@
 
 ## Links
 - **Github**: https://github.com/mangila
-- **Website**: https://mangila.net
+- **Website**: https://mangila.github.io/
 - **Credly**: https://www.credly.com/users/erik-olsson.c4417a40
 
 ## Professional Summary
