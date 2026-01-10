@@ -114,3 +114,7 @@ Operated in the private banking department on multiple greenfield and brownfield
 
 - **AWS Certified Cloud Practitioner** – Amazon Web Services, 2024
 - **Oracle Certified Foundations Associate** – Oracle, 2019
+
+## Side projects
+
+- Ensure4j - https://github.com/mangila/ensure4j - Ensure your java code with preconditions checks
