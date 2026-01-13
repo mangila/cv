@@ -48,7 +48,7 @@ Sweden.
 - Enhanced technical proficiency in AWS, Golang, gRPC, and Kubernetes through continuous learning and hands-on
   implementation
 - GitHub and Azure DevOps for version control and project management
-- **Technologies**: C#, .NET, React, Next.js, Vite, Golang, Java, AWS, Kubernetes
+- **Technologies**: C#, .NET, React, Next.js, Vite, Golang, Java, AWS, Kubernetes, gRPC
 
 ### Forward Deployed Engineer | Tele2, Stockholm
 
@@ -71,7 +71,7 @@ Genesys Cloud platforms.
 - Designed and implemented CI/CD pipelines for automated testing and deployment
 - Deployed applications to on-premises Kubernetes clusters, dedicated servers, and AWS cloud infrastructure
 - Collaborated effectively in agile, cross-functional teams using GitLab for version control
-- **Technologies**: Java, Spring, C#, .NET, React, Golang, Kubernetes, AWS
+- **Technologies**: Java, Spring, C#, .NET, React, Golang, Kubernetes, AWS, MSQL, MongoDB
 
 ### Software Engineer | Nordea, Stockholm
 
@@ -93,7 +93,7 @@ Operated in the private banking department on multiple greenfield and brownfield
 - Provided troubleshooting and support for production issues
 - Built CI/CD pipelines for automated deployment to on-premises Kubernetes clusters
 - Worked collaboratively in agile teams using Jira, Confluence, and Bitbucket
-- **Technologies**: Java, Spring Boot, Kubernetes
+- **Technologies**: Java, Spring Boot, Kubernetes, MSSQL
 
 ## Education
 
