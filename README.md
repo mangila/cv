@@ -48,7 +48,7 @@ Sweden.
 - Enhanced technical proficiency in AWS, Golang, gRPC, and Kubernetes through continuous learning and hands-on
   implementation
 - GitHub and Azure DevOps for version control and project management
-- **Technologies**: C#, .NET, React, Next.js, Vite, Golang, Java, AWS, Kubernetes, gRPC
+  - **Technologies**: C#, .NET, React, Next.js, Vite, Golang, Java, AWS, Kubernetes, gRPC, Terraform
 
 ### Forward Deployed Engineer | Tele2, Stockholm
 
