@@ -7,6 +7,7 @@
 - **Location**: Stockholm, Sweden
 
 ## Links
+
 - **Github**: https://github.com/mangila
 - **Website**: https://mangila.github.io/
 - **Credly**: https://www.credly.com/users/erik-olsson.c4417a40
@@ -17,7 +18,8 @@ I'm a "You build it, you run it." type of engineer, that most of the time takes 
 development, from requirements gathering to deployment and maintenance.
 
 Results-driven Software Engineer with 5+ years of experience in full-stack development, cloud infrastructure, and
-enterprise software solutions. Proven expertise in Java, Spring Boot, C#, .NET, React, Next.js, and modern cloud technologies including AWS, Azure,
+enterprise software solutions. Proven expertise in Java, Spring Boot, C#, .NET, React, Next.js, and modern cloud
+technologies including AWS, Azure,
 and Kubernetes. Strong background in agile methodologies, CI/CD implementation, and delivering scalable solutions for
 telecommunications, financial services, and consulting sectors.
 
@@ -48,7 +50,7 @@ Sweden.
 - Enhanced technical proficiency in AWS, Golang, gRPC, and Kubernetes through continuous learning and hands-on
   implementation
 - GitHub and Azure DevOps for version control and project management
-  - **Technologies**: C#, .NET, React, Next.js, Vite, Golang, Java, AWS, Kubernetes, gRPC, Terraform
+- **Technologies**: C#, .NET, React, Next.js, Vite, Golang, Java, AWS, Kubernetes, gRPC, Terraform
 
 ### Forward Deployed Engineer | Tele2, Stockholm
 
@@ -94,6 +96,17 @@ Operated in the private banking department on multiple greenfield and brownfield
 - Built CI/CD pipelines for automated deployment to on-premises Kubernetes clusters
 - Worked collaboratively in agile teams using Jira, Confluence, and Bitbucket
 - **Technologies**: Java, Spring Boot, Kubernetes, MSSQL
+
+### Early Career | Various Locations
+
+**2012 – 2018**
+
+Before transitioning into software engineering, I gained valuable professional experience in retail and logistics.
+
+- **Store Clerk**: Developed strong customer service skills, handled inventory management, and managed point-of-sale
+  operations in high-paced retail environments.
+- **Warehouse Worker**: Responsible for logistics, order fulfillment, and maintaining efficient warehouse operations,
+  ensuring timely delivery and quality control.
 
 ## Education
 
