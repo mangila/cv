@@ -99,14 +99,14 @@ Operated in the private banking department on multiple greenfield and brownfield
 
 ### Early Career | Various Locations
 
-**2012 – 2018**
+**2012 – 2020**
 
-Before transitioning into software engineering, I gained valuable professional experience in retail and logistics.
+Before transitioning into software engineering, I gained valuable professional experience in IT support, testing, retail, and logistics.
 
-- **Store Clerk**: Developed strong customer service skills, handled inventory management, and managed point-of-sale
-  operations in high-paced retail environments.
-- **Warehouse Worker**: Responsible for logistics, order fulfillment, and maintaining efficient warehouse operations,
-  ensuring timely delivery and quality control.
+- **IT-Tester**: Conducted manual testing to ensure software quality, identified bugs, and collaborated with developers to improve system reliability.
+- **Technical Support**: Provided software troubleshooting and offered technical guidance to end-users.
+- **Store Clerk**: Developed strong customer service skills, handled inventory management, and managed point-of-sale operations in high-paced retail environments.
+- **Warehouse Worker**: Responsible for logistics, order fulfillment, and maintaining efficient warehouse operations, ensuring timely delivery and quality control.
 
 ## Education
 
