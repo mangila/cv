@@ -25,16 +25,6 @@ telecommunications, financial services, and consulting sectors.
 
 ## Professional Experience
 
-### Open Source Contributor | Stockholm
-
-**August 2020—Present**
-
-Developing and maintaining open-source projects for the community.
-
-- Maintaining and improving existing libraries and tools
-- Contributing to documentation and tutorials
-- Providing feedback and guidance on new features
-
 ### Software Engineer | Omegapoint, Stockholm
 
 **August 2024 – February 2025**
@@ -131,3 +121,8 @@ Before transitioning into software engineering, I gained valuable professional e
 ## Side projects
 
 - Ensure4j - https://github.com/mangila/ensure4j - Ensure your java code with preconditions checks
+
+## Volunteering
+
+- Open source contributor
+  - I have been contributing to open source with guides and hands-on projects.

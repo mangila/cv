@@ -120,3 +120,8 @@ Innan jag växlade över till mjukvaruteknik fick jag värdefull yrkeserfarenhet
 ## Sidoprojekt
 
 - **Ensure4j** - https://github.com/mangila/ensure4j - Kontrollera din Java-kod med "precondition checks".
+
+## Volontärarbete
+
+- Öppen källkod bidragsgivare
+  - Jag har bidragit till open source med guider och praktiska projekt.
