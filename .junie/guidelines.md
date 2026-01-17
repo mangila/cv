@@ -36,7 +36,7 @@ Testing for this project involves verifying that the Markdown to PDF conversion 
 
 #### Additional Development Information
 - **CV Matcher Workflow**:
-  - This repository functions as a "CV Matcher".
+  - This repository functions as a "CV Matcher."
   - `README.md` (English) and `SV.md` (Swedish) are the master templates containing all professional experience.
   - When provided with a **job advertisement**, the goal is to create a tailored CV that highlights the most relevant skills and experiences for that specific role.
   - **Process**:
