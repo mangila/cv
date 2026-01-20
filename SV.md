@@ -20,16 +20,6 @@ Resultatdriven mjukvaruingenjör med 5+ års erfarenhet av fullstack-utveckling,
 
 ## Professionell erfarenhet
 
-### Open Source-bidragsgivare | Stockholm
-
-**Augusti 2020—Nutid**
-
-Utvecklar och underhåller open source-projekt för communityn.
-
-- Underhåller och förbättrar befintliga bibliotek och verktyg
-- Bidrar till dokumentation och tutorials
-- Ger feedback och vägledning kring nya funktioner
-
 ### Software Engineer | Omegapoint, Stockholm
 
 **Augusti 2024 – Februari 2025**
