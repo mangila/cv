@@ -15,7 +15,8 @@
 ## Professional Summary
 
 I'm a "You build it, you run it." type of engineer, that most of the time takes on the whole chain of product
-development, from requirements gathering to deployment and maintenance.
+development, from requirements gathering to deployment and maintenance. I often take stewardship of projects and
+collaborate with other engineers to ensure that they deliver the best possible solution.
 
 Results-driven Software Engineer with 5+ years of experience in full-stack development, cloud infrastructure, and
 enterprise software solutions. Proven expertise in Java, Spring Boot, C#, .NET, React, Next.js, and modern cloud

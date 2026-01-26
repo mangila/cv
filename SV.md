@@ -14,7 +14,7 @@
 
 ## Professionell sammanfattning
 
-Jag är en "You build it, you run it"-ingenjör som oftast tar hand om hela kedjan i produktutvecklingen, från kravinsamling till driftsättning och underhåll.
+Jag är en "You build it, you run it"-ingenjör som oftast tar hand om hela kedjan i produktutvecklingen, från kravinsamling till driftsättning och underhåll. Jag tar ofta ägarskap för projekt och samarbetar med andra ingenjörer för att säkerställa att de levererar bästa möjliga lösning.
 
 Resultatdriven mjukvaruingenjör med 5+ års erfarenhet av fullstack-utveckling, molninfrastruktur och systemlösningar för företag. Bevisad expertis inom Java, Spring Boot, C#, .NET, React, Next.js och modern molnteknik inklusive AWS, Azure och Kubernetes. Stark bakgrund inom agila metoder, CI/CD-implementering och leverans av skalbara lösningar för telekom, finans och konsultsektorn.
 
@@ -44,7 +44,7 @@ Verkade inom callcenter-avdelningen i både "greenfield"- och "brownfield"-proje
 
 - Projekt som omfattade hela företagets callcenter-verksamhet
 - Projekt som inkluderade verksamhetskritisk statlig verksamhet
-- Utvecklade schemalagda jobb för att konsumera mediefiler från REST-API:er och överföra till SFTP-servrar med OpenPGP "end-to-end"-kryptering och digital signering
+- Utvecklade ett schemalagt jobb för att konsumera mediefiler från REST-API:er och överföra till SFTP-servrar med OpenPGP "end-to-end"-kryptering och digital signering
 - Byggde automatiserade datapipelines som extraherar SQL-poster, transformerar dem till CSV-format och levererar till externa REST-API:er
 - Utvecklade REST-API för realtidssynkronisering av callcenter-status mot en administrativ dashboard
 - Skapade SOAP-baserat API för köhantering i callcenter med ett kundvänt användargränssnitt
@@ -58,7 +58,7 @@ Verkade inom callcenter-avdelningen i både "greenfield"- och "brownfield"-proje
 
 **November 2021 – Januari 2023**
 
-Nordea är en av de största finanskoncernerna i Norra Europa.
+Nordea är en av de största finanskoncernerna i Norra Europa som betjänar kunder i hela Norden.
 
 Verkade inom Private Banking-avdelningen i flera "greenfield"- och "brownfield"-projekt.
 
@@ -89,7 +89,7 @@ Innan jag växlade över till mjukvaruteknik fick jag värdefull yrkeserfarenhet
 
 ## Utbildning
 
-**Yrkeshögskoleexamen: Java-utveckling**
+**Yrkeshögskoleexamen: Java-utveckling**  
 *IT-Högskolan, Stockholm – 2018–2020*
 
 - Specialisering inom Java-programmering och Javas ekosystem
@@ -109,7 +109,7 @@ Innan jag växlade över till mjukvaruteknik fick jag värdefull yrkeserfarenhet
 
 ## Sidoprojekt
 
-- **Ensure4j** - https://github.com/mangila/ensure4j - Kontrollera din Java-kod med "precondition checks".
+- Ensure4j - https://github.com/mangila/ensure4j - Kontrollera din Java-kod med "precondition checks"
 
 ## Volontärarbete
 
