@@ -32,6 +32,9 @@ telecommunications, financial services, and consulting sectors.
 
 Digg is the Swedish national authority responsible for coordinating and supporting the digitalization of the public sector.
 
+- Single Digital Gateway
+- **Technologies**: Java, Quarkus, Spring Boot, Vue, OpenShift, ArgoCD
+
 ### Software Engineer | Omegapoint, Stockholm
 
 **August 2024 – February 2025**

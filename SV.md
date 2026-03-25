@@ -26,6 +26,9 @@ Resultatdriven mjukvaruingenjör med 5+ års erfarenhet av fullstack-utveckling,
 
 Digg är Sveriges centrala myndighet för att samordna och stödja digitaliseringen av den offentliga förvaltningen.
 
+- Single Digital Gateway
+- **Tekniker**: Java, Quarkus, Spring Boot, Vue, OpenShift, ArgoCD
+
 ### Software Engineer | Omegapoint, Stockholm
 
 **Augusti 2024 – Februari 2025**
