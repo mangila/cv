@@ -1,1 +1,11 @@
 .idea
+# Python
+__pycache__/
+*.pyc
+
+# Generated PDFs
+*.pdf
+
+# Tailored CV files
+*_CV.md
+*_MESSAGE.md

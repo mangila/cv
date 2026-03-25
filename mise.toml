@@ -1,2 +1,10 @@
 [tools]
 pandoc = "latest"
+python = "3.14.3"
+
+
+[tasks.convert]
+description = "convert markdown files to .pdf"
+run = "python convert.py"
+
+
