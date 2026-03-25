@@ -21,7 +21,7 @@ för att säkerställa att de levererar bästa möjliga lösning.
 Resultatdriven mjukvaruingenjör med 5+ års erfarenhet av fullstack-utveckling, molninfrastruktur och systemlösningar för
 företag. Bevisad expertis inom Java, Spring Boot, C#, .NET, React, Next.js och modern molnteknik inklusive AWS, Azure
 och Kubernetes. Stark bakgrund inom agila metoder, CI/CD-implementering och leverans av skalbara lösningar för telekom,
-finans och konsultsektorn.
+finans, offentliga och konsultsektorn.
 
 ## Professionell erfarenhet
 

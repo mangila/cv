@@ -22,7 +22,7 @@ Results-driven Software Engineer with 5+ years of experience in full-stack devel
 enterprise software solutions. Proven expertise in Java, Spring Boot, C#, .NET, React, Next.js, and modern cloud
 technologies including AWS, Azure,
 and Kubernetes. Strong background in agile methodologies, CI/CD implementation, and delivering scalable solutions for
-telecommunications, financial services, and consulting sectors.
+telecommunications, financial services, public and consulting sectors.
 
 ## Professional Experience
 
