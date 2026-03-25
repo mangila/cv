@@ -26,6 +26,12 @@ telecommunications, financial services, and consulting sectors.
 
 ## Professional Experience
 
+### Software Engineer | Digg – Agency for Digital Government, Stockholm
+
+**March 2026 – Present**
+
+Digg is the Swedish national authority responsible for coordinating and supporting the digitalization of the public sector.
+
 ### Software Engineer | Omegapoint, Stockholm
 
 **August 2024 – February 2025**

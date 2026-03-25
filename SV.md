@@ -20,6 +20,12 @@ Resultatdriven mjukvaruingenjör med 5+ års erfarenhet av fullstack-utveckling,
 
 ## Professionell erfarenhet
 
+### Software Engineer | Digg - Myndigheten för digital förvaltning, Stockholm
+
+**Mars 2026 – Nutid**
+
+Digg är Sveriges centrala myndighet för att samordna och stödja digitaliseringen av den offentliga förvaltningen.
+
 ### Software Engineer | Omegapoint, Stockholm
 
 **Augusti 2024 – Februari 2025**
