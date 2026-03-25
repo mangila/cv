@@ -32,7 +32,7 @@ def convert_markdown_to_pdf(input_file: str, output_file: str) -> None:
         "-V", "colorlinks=true",
         "-V", "linkcolor=blue",
         "-V", "urlcolor=MidnightBlue",
-        "--variable", "urlstyle=same",
+        "-V", "urlstyle=same",
     ]
 
     result = subprocess.run(cmd)
