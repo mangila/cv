@@ -14,14 +14,25 @@ def convert_markdown_to_pdf(input_file: str, output_file: str) -> None:
 
     cmd = [
         "pandoc",
-        input_file,
-        "-o",
-        output_file,
+
+        # --- Input & Output ---
+        input_file, "-o", output_file,
+
+        # --- Engine ---
         "--pdf-engine=xelatex",
-        "-V",
-        'geometry:margin=1cm',
-        "-V",
-        "mainfont=DejaVu Sans",
+
+        # --- Layout & Typography ---
+        "-V", "geometry:margin=1in",
+        "-V", "fontsize=11pt",
+        "-V", "mainfont=DejaVu Sans",
+        "-V", "monofont=DejaVu Sans Mono",
+        "-V", "linestretch=1.2",
+
+        # --- Link Styling ---
+        "-V", "colorlinks=true",
+        "-V", "linkcolor=blue",
+        "-V", "urlcolor=MidnightBlue",
+        "--variable", "urlstyle=same",
     ]
 
     result = subprocess.run(cmd)

@@ -9,3 +9,6 @@ __pycache__/
 # Tailored CV files
 *_CV.md
 *_MESSAGE.md
+
+# pandoc
+missfont.log

@@ -8,15 +8,20 @@
 
 ## Länkar
 
-- **Github**: https://github.com/mangila
-- **Webbplats**: https://mangila.github.io/
-- **Credly**: https://www.credly.com/users/erik-olsson.c4417a40
+- **Github**: [https://github.com/mangila](https://github.com/mangila)
+- **Webbplats**: [https://mangila.github.io/](https://mangila.github.io/)
+- **Credly**: [https://www.credly.com/users/erik-olsson.c4417a40](https://www.credly.com/users/erik-olsson.c4417a40)
 
 ## Professionell sammanfattning
 
-Jag är en "You build it, you run it"-ingenjör som oftast tar hand om hela kedjan i produktutvecklingen, från kravinsamling till driftsättning och underhåll. Jag tar ofta ägarskap för projekt och samarbetar med andra ingenjörer för att säkerställa att de levererar bästa möjliga lösning.
+Jag är en "You build it, you run it"-ingenjör som oftast tar hand om hela kedjan i produktutvecklingen, från
+kravinsamling till driftsättning och underhåll. Jag tar ofta ägarskap för projekt och samarbetar med andra ingenjörer
+för att säkerställa att de levererar bästa möjliga lösning.
 
-Resultatdriven mjukvaruingenjör med 5+ års erfarenhet av fullstack-utveckling, molninfrastruktur och systemlösningar för företag. Bevisad expertis inom Java, Spring Boot, C#, .NET, React, Next.js och modern molnteknik inklusive AWS, Azure och Kubernetes. Stark bakgrund inom agila metoder, CI/CD-implementering och leverans av skalbara lösningar för telekom, finans och konsultsektorn.
+Resultatdriven mjukvaruingenjör med 5+ års erfarenhet av fullstack-utveckling, molninfrastruktur och systemlösningar för
+företag. Bevisad expertis inom Java, Spring Boot, C#, .NET, React, Next.js och modern molnteknik inklusive AWS, Azure
+och Kubernetes. Stark bakgrund inom agila metoder, CI/CD-implementering och leverans av skalbara lösningar för telekom,
+finans och konsultsektorn.
 
 ## Professionell erfarenhet
 
@@ -39,7 +44,8 @@ Omegapoint är ett IT-konsultbolag specialiserat på IT-säkerhet som tillhandah
 - Höll tekniska presentationer om gRPC och Golang för ingenjörsteam för att främja kunskapsdelning och "best practices"
 - Utvecklade och underhöll molnbaserade projekt med moderna DevOps-metoder
 - Verkade som Scrum Master, faciliterade agila ceremonier och säkerställde teamets produktivitet
-- Fördjupade teknisk kompetens inom AWS, Golang, gRPC och Kubernetes genom kontinuerligt lärande och praktisk implementering
+- Fördjupade teknisk kompetens inom AWS, Golang, gRPC och Kubernetes genom kontinuerligt lärande och praktisk
+  implementering
 - Använde GitHub och Azure DevOps för versionshantering och projektledning
 - **Tekniker**: C#, .NET, React, Next.js, Vite, Golang, Java, AWS, Kubernetes, gRPC, Terraform
 
@@ -49,12 +55,15 @@ Omegapoint är ett IT-konsultbolag specialiserat på IT-säkerhet som tillhandah
 
 Tele2 är ett ledande telekombolag som levererar tjänster till Sverige och de baltiska länderna.
 
-Verkade inom callcenter-avdelningen i både "greenfield"- och "brownfield"-projekt med integrationer mot plattformarna Avaya, Cisco och Genesys Cloud.
+Verkade inom callcenter-avdelningen i både "greenfield"- och "brownfield"-projekt med integrationer mot plattformarna
+Avaya, Cisco och Genesys Cloud.
 
 - Projekt som omfattade hela företagets callcenter-verksamhet
 - Projekt som inkluderade verksamhetskritisk statlig verksamhet
-- Utvecklade ett schemalagt jobb för att konsumera mediefiler från REST-API:er och överföra till SFTP-servrar med OpenPGP "end-to-end"-kryptering och digital signering
-- Byggde automatiserade datapipelines som extraherar SQL-poster, transformerar dem till CSV-format och levererar till externa REST-API:er
+- Utvecklade ett schemalagt jobb för att konsumera mediefiler från REST-API:er och överföra till SFTP-servrar med
+  OpenPGP "end-to-end"-kryptering och digital signering
+- Byggde automatiserade datapipelines som extraherar SQL-poster, transformerar dem till CSV-format och levererar till
+  externa REST-API:er
 - Utvecklade REST-API för realtidssynkronisering av callcenter-status mot en administrativ dashboard
 - Skapade SOAP-baserat API för köhantering i callcenter med ett kundvänt användargränssnitt
 - Författade omfattande enhets- och integrationstester för att säkerställa kodkvalitet och tillförlitlighet
@@ -76,7 +85,8 @@ Verkade inom Private Banking-avdelningen i flera "greenfield"- och "brownfield"-
 - Underhöll och förbättrade storskaliga finansiella applikationer för kritiska bankoperationer
 - Designade och implementerade nya REST-slutpunkter för att stödja verksamhetskrav
 - Hanterade versionsuppgraderingar av bibliotek och beroendehantering för företagsapplikationer
-- Utvecklade omfattande enhets- och integrationstester för att säkerställa applikationsstabilitet, framtidssäkring och säkerhet
+- Utvecklade omfattande enhets- och integrationstester för att säkerställa applikationsstabilitet, framtidssäkring och
+  säkerhet
 - Underhöll interna delade bibliotek som användes i flera projekt
 - Utförde kodrefaktorering för att förbättra underhållsmässighet och prestanda
 - Skapade teknisk dokumentation för system och processer
@@ -89,12 +99,15 @@ Verkade inom Private Banking-avdelningen i flera "greenfield"- och "brownfield"-
 
 **2012 – 2020**
 
-Innan jag växlade över till mjukvaruteknik fick jag värdefull yrkeserfarenhet inom IT-support, testning, detaljhandel och logistik.
+Innan jag växlade över till mjukvaruteknik fick jag värdefull yrkeserfarenhet inom IT-support, testning, detaljhandel
+och logistik.
 
-- **IT-testare**: Genomförde manuella tester för att säkerställa mjukvarukvalitet, identifierade buggar och samarbetade med utvecklare för att förbättra systemtillförlitlighet.
+- **IT-testare**: Genomförde manuella tester för att säkerställa mjukvarukvalitet, identifierade buggar och samarbetade
+  med utvecklare för att förbättra systemtillförlitlighet.
 - **Teknisk support**: Erbjöd felsökning av mjukvara och teknisk vägledning till slutanvändare.
 - **Butiksbiträde**: Utvecklade stark förmåga inom kundservice, hanterade lager och kassa i högt tempo.
-- **Lagerarbetare**: Ansvarig för logistik, orderplock och effektiva lagerflöden för att säkerställa leveransprecision och kvalitetskontroll.
+- **Lagerarbetare**: Ansvarig för logistik, orderplock och effektiva lagerflöden för att säkerställa leveransprecision
+  och kvalitetskontroll.
 
 ## Utbildning
 
@@ -118,9 +131,10 @@ Innan jag växlade över till mjukvaruteknik fick jag värdefull yrkeserfarenhet
 
 ## Sidoprojekt
 
-- Ensure4j - https://github.com/mangila/ensure4j - Kontrollera din Java-kod med "precondition checks"
+- Ensure4j - [https://github.com/mangila/ensure4j](https://github.com/mangila/ensure4j) - Kontrollera din Java-kod med "
+  precondition checks"
 
 ## Volontärarbete
 
 - Öppen källkod bidragsgivare
-  - Jag har bidragit till open source med guider och praktiska projekt.
+    - Jag har bidragit till open source med guider och praktiska projekt.

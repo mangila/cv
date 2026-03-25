@@ -8,9 +8,9 @@
 
 ## Links
 
-- **Github**: https://github.com/mangila
-- **Website**: https://mangila.github.io/
-- **Credly**: https://www.credly.com/users/erik-olsson.c4417a40
+- **Github**: [https://github.com/mangila](https://github.com/mangila)
+- **Website**: [https://mangila.github.io/](https://mangila.github.io/)
+- **Credly**: [https://www.credly.com/users/erik-olsson.c4417a40](https://www.credly.com/users/erik-olsson.c4417a40)
 
 ## Professional Summary
 
@@ -30,7 +30,8 @@ telecommunications, financial services, and consulting sectors.
 
 **March 2026 – Present**
 
-Digg is the Swedish national authority responsible for coordinating and supporting the digitalization of the public sector.
+Digg is the Swedish national authority responsible for coordinating and supporting the digitalization of the public
+sector.
 
 - Single Digital Gateway
 - **Technologies**: Java, Quarkus, Spring Boot, Vue, OpenShift, ArgoCD
@@ -101,12 +102,16 @@ Operated in the private banking department on multiple greenfield and brownfield
 
 **2012 – 2020**
 
-Before transitioning into software engineering, I gained valuable professional experience in IT support, testing, retail, and logistics.
+Before transitioning into software engineering, I gained valuable professional experience in IT support, testing,
+retail, and logistics.
 
-- **IT-Tester**: Conducted manual testing to ensure software quality, identified bugs, and collaborated with developers to improve system reliability.
+- **IT-Tester**: Conducted manual testing to ensure software quality, identified bugs, and collaborated with developers
+  to improve system reliability.
 - **Technical Support**: Provided software troubleshooting and offered technical guidance to end-users.
-- **Store Clerk**: Developed strong customer service skills, handled inventory management, and managed point-of-sale operations in high-paced retail environments.
-- **Warehouse Worker**: Responsible for logistics, order fulfillment, and maintaining efficient warehouse operations, ensuring timely delivery and quality control.
+- **Store Clerk**: Developed strong customer service skills, handled inventory management, and managed point-of-sale
+  operations in high-paced retail environments.
+- **Warehouse Worker**: Responsible for logistics, order fulfillment, and maintaining efficient warehouse operations,
+  ensuring timely delivery and quality control.
 
 ## Education
 
@@ -130,9 +135,9 @@ Before transitioning into software engineering, I gained valuable professional e
 
 ## Side projects
 
-- Ensure4j - https://github.com/mangila/ensure4j - Ensure your java code with preconditions checks
+- Ensure4j - [https://github.com/mangila/ensure4j](https://github.com/mangila/ensure4j) - Ensure your java code with preconditions checks
 
 ## Volunteering
 
 - Open source contributor
-  - I have been contributing to open source with guides and hands-on projects.
+    - I have been contributing to open source with guides and hands-on projects.
