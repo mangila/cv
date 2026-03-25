@@ -2,6 +2,9 @@
 pandoc = "latest"
 python = "3.14.3"
 
+#[tasks.pdfengine]
+#description = "install pdf engine"
+#run = "sudo apt install texlive-xetex"
 
 [tasks.convert]
 description = "convert markdown files to .pdf"
