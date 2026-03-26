@@ -16,7 +16,7 @@
 
 Jag är en "You build it, you run it"-ingenjör som oftast tar hand om hela kedjan i produktutvecklingen, från
 kravinsamling till driftsättning och underhåll. Jag tar ofta ägarskap för projekt och samarbetar med andra ingenjörer
-för att säkerställa att de levererar bästa möjliga lösning.
+för att säkerställa att leverera den bästa möjliga lösningen.
 
 Resultatdriven mjukvaruingenjör med 5+ års erfarenhet av fullstack-utveckling, molninfrastruktur och systemlösningar för
 företag. Bevisad expertis inom Java, Spring Boot, C#, .NET, React, Next.js och modern molnteknik inklusive AWS, Azure
