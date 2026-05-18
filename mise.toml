@@ -1,6 +1,6 @@
 [tools]
-pandoc = "latest"
-python = "3.14.3"
+pandoc = "3"
+python = "3"
 
 #[tasks.pdfengine]
 #description = "install pdf engine"
