@@ -135,7 +135,7 @@ retail, and logistics.
 
 ## Side projects
 
-- Ensure4j - [https://github.com/mangila/ensure4j](https://github.com/mangila/ensure4j) - Ensure your java code with preconditions checks
+- Ensure4j - Ensure your java code with preconditions checks – [https://github.com/mangila/ensure4j](https://github.com/mangila/ensure4j)
 
 ## Volunteering
 

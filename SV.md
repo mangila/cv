@@ -131,8 +131,7 @@ och logistik.
 
 ## Sidoprojekt
 
-- Ensure4j - [https://github.com/mangila/ensure4j](https://github.com/mangila/ensure4j) - Kontrollera din Java-kod med "
-  precondition checks"
+- Ensure4j - Kontrollera din Java-kod med prekonditionskontroll - [https://github.com/mangila/ensure4j](https://github.com/mangila/ensure4j)
 
 ## Volontärarbete
 
