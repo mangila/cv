@@ -33,8 +33,17 @@ telecommunications, financial services, public and consulting sectors.
 Digg is the Swedish national authority responsible for coordinating and supporting the digitalization of the public
 sector.
 
-- Single Digital Gateway
-- **Technologies**: Java, Quarkus, Spring Boot, Vue, OpenShift, ArgoCD
+Contributed to Sweden’s implementation of the EU Single Digital Gateway directive, developing digital public-sector
+services that improve cross-border access to information, procedures, and assistance services for citizens and businesses
+within the EU.
+
+- Developed and maintained services for Sweden’s Single Digital Gateway implementation
+- Built backend functionality using Java and Quarkus
+- Developed frontend features using Vue for public-sector digital services
+- Worked with containerized deployments and GitOps-based delivery on OpenShift using ArgoCD
+- Collaborated in an agile team to deliver secure, maintainable, and scalable solutions for government digitalization
+- Contributed to integrations and service improvements supporting EU regulatory requirements
+- **Technologies**: Java, Quarkus, Vue, OpenShift, ArgoCD
 
 ### Software Engineer | Omegapoint, Stockholm
 

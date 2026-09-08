@@ -25,14 +25,22 @@ finans, offentliga och konsultsektorn.
 
 ## Professionell erfarenhet
 
-### Software Engineer | Digg - Myndigheten för digital förvaltning, Stockholm
+### Software Engineer | Digg – Myndigheten för digital förvaltning, Stockholm
 
 **Mars 2026 – Nutid**
 
 Digg är Sveriges centrala myndighet för att samordna och stödja digitaliseringen av den offentliga förvaltningen.
 
-- Single Digital Gateway
-- **Tekniker**: Java, Quarkus, Spring Boot, Vue, OpenShift, ArgoCD
+Bidrog till Sveriges implementation av EU-direktivet Single Digital Gateway genom att utveckla digitala offentliga
+tjänster som förbättrar gränsöverskridande tillgång till information, ärenden och stöd för medborgare och företag inom EU.
+
+- Utvecklade och underhöll tjänster för Sveriges implementation av Single Digital Gateway
+- Byggde backend-funktionalitet med Java och Quarkus
+- Utvecklade frontend-funktioner med Vue för digitala offentliga tjänster
+- Arbetade med containerbaserade driftsättningar och GitOps-baserade leveranser på OpenShift med ArgoCD
+- Samarbetade i ett agilt team för att leverera säkra, underhållbara och skalbara lösningar för offentlig digitalisering
+- Bidrog till integrationer och förbättringar av tjänster som stödjer EU-regulatoriska krav
+- **Tekniker**: Java, Quarkus, Vue, OpenShift, ArgoCD
 
 ### Software Engineer | Omegapoint, Stockholm
 
