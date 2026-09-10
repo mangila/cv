@@ -19,7 +19,7 @@ kravinsamling till driftsättning och underhåll. Jag tar ofta ägarskap för pr
 för att säkerställa att leverera den bästa möjliga lösningen.
 
 Resultatdriven mjukvaruingenjör med 5+ års erfarenhet av fullstack-utveckling, molninfrastruktur och systemlösningar för
-företag. Bevisad expertis inom Java, Spring Boot, C#, .NET, React, Next.js och modern molnteknik inklusive AWS, Azure
+företag. Bevisad expertis inom Java, Spring Boot, Quarkus, C#, .NET, Vue, React, Next.js och modern molnteknik inklusive AWS, Azure
 och Kubernetes. Stark bakgrund inom agila metoder, CI/CD-implementering och leverans av skalbara lösningar för telekom,
 finans, offentliga och konsultsektorn.
 

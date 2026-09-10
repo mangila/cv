@@ -19,7 +19,7 @@ development, from requirements gathering to deployment and maintenance. I often 
 collaborate with other engineers to ensure to deliver the best possible solution.
 
 Results-driven Software Engineer with 5+ years of experience in full-stack development, cloud infrastructure, and
-enterprise software solutions. Proven expertise in Java, Spring Boot, C#, .NET, React, Next.js, and modern cloud
+enterprise software solutions. Proven expertise in Java, Spring Boot, Quarkus, C#, .NET, Vue, React, Next.js, and modern cloud
 technologies including AWS, Azure,
 and Kubernetes. Strong background in agile methodologies, CI/CD implementation, and delivering scalable solutions for
 telecommunications, financial services, public and consulting sectors.
