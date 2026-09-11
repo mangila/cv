@@ -2,7 +2,7 @@
 
 ## Kontaktinformation
 
-- **E-post**: olsson.erik1993@gmail.com
+- **E-post**: <olsson.erik1993@gmail.com>
 - **Telefon**: +46 736 791 310
 - **Plats**: Stockholm, Sverige
 
@@ -27,7 +27,7 @@ finans, offentliga och konsultsektorn.
 
 ### Software Engineer | Digg – Myndigheten för digital förvaltning, Stockholm
 
-**Mars 2026 – Nutid**
+#### Mars 2026 – Nutid
 
 Digg är Sveriges centrala myndighet för att samordna och stödja digitaliseringen av den offentliga förvaltningen.
 
@@ -42,9 +42,9 @@ tjänster som förbättrar gränsöverskridande tillgång till information, äre
 - Bidrog till integrationer och förbättringar av tjänster som stödjer EU-regulatoriska krav
 - **Tekniker**: Java, Quarkus, Vue, OpenShift, ArgoCD
 
-### Software Engineer | Omegapoint, Stockholm
+### Software Engineer Consultant | Omegapoint, Stockholm
 
-**Augusti 2024 – Februari 2025**
+#### Augusti 2024 – Februari 2025
 
 Omegapoint är ett IT-konsultbolag specialiserat på IT-säkerhet som tillhandahåller företagslösningar över hela Sverige.
 
@@ -59,7 +59,7 @@ Omegapoint är ett IT-konsultbolag specialiserat på IT-säkerhet som tillhandah
 
 ### Forward Deployed Engineer | Tele2, Stockholm
 
-**Januari 2023 – Augusti 2024**
+#### Januari 2023 – Augusti 2024
 
 Tele2 är ett ledande telekombolag som levererar tjänster till Sverige och de baltiska länderna.
 
@@ -82,7 +82,7 @@ Avaya, Cisco och Genesys Cloud.
 
 ### Software Engineer | Nordea, Stockholm
 
-**November 2021 – Januari 2023**
+#### November 2021 – Januari 2023
 
 Nordea är en av de största finanskoncernerna i Norra Europa som betjänar kunder i hela Norden.
 
@@ -105,7 +105,7 @@ Verkade inom Private Banking-avdelningen i flera "greenfield"- och "brownfield"-
 
 ### Tidig karriär | Olika platser
 
-**2012 – 2020**
+#### 2012 – 2020
 
 Innan jag växlade över till mjukvaruteknik fick jag värdefull yrkeserfarenhet inom IT-support, testning, detaljhandel
 och logistik.
@@ -144,4 +144,4 @@ och logistik.
 ## Volontärarbete
 
 - Öppen källkod bidragsgivare
-    - Jag har bidragit till open source med guider och praktiska projekt.
+  - Jag har bidragit till open source med guider och praktiska projekt.
