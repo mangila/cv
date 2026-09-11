@@ -39,9 +39,10 @@ within the EU.
 - Built backend functionality using Java and Quarkus
 - Developed frontend features using Vue for public-sector digital services
 - Worked with containerized deployments and GitOps-based delivery on OpenShift using ArgoCD
+- Designed and implemented CI/CD pipelines for automated testing and Q&A
 - Collaborated in an agile team to deliver secure, maintainable, and scalable solutions for government digitalization
 - Contributed to integrations and service improvements supporting EU regulatory requirements
-- **Technologies**: Java, Quarkus, Vue, OpenShift, ArgoCD
+- **Technologies**: Java, Quarkus, Vue, OpenShift, ArgoCD, Gitlab
 
 ### Software Engineer Consultant | Omegapoint | Stockholm | August 2024 – February 2025
 
@@ -56,7 +57,7 @@ Sweden.
 - Enhanced technical proficiency in AWS, Golang, gRPC, and Kubernetes through continuous learning and hands-on
   implementation
 - GitHub and Azure DevOps for version control and project management
-- **Technologies**: C#, .NET, React, Next.js, Vite, Golang, Java, AWS, Kubernetes, gRPC, Terraform
+- **Technologies**: C#, .NET, React, Next.js, Vite, Golang, Java, AWS, Kubernetes, gRPC, Terraform, Github
 
 ### Forward Deployed Engineer | Tele2 | Stockholm | January 2023 – August 2024
 
@@ -77,7 +78,7 @@ Genesys Cloud platforms.
 - Designed and implemented CI/CD pipelines for automated testing and deployment
 - Deployed applications to on-premises Kubernetes clusters, dedicated servers, and AWS cloud infrastructure
 - Collaborated effectively in agile, cross-functional teams using GitLab for version control
-- **Technologies**: Java, Spring, C#, .NET, React, Golang, Kubernetes, AWS, MSQL, MongoDB
+- **Technologies**: Java, Spring, C#, .NET, React, Golang, Kubernetes, AWS, MSQL, MongoDB, Gitlab
 
 ### Software Engineer | Nordea | Stockholm | November 2021 – January 2023
 
@@ -97,7 +98,7 @@ Operated in the private banking department on multiple greenfield and brownfield
 - Provided troubleshooting and support for production issues
 - Built CI/CD pipelines for automated deployment to on-premises Kubernetes clusters
 - Worked collaboratively in agile teams using Jira, Confluence, and Bitbucket
-- **Technologies**: Java, Spring Boot, Kubernetes, MSSQL
+- **Technologies**: Java, Spring Boot, Kubernetes, MSSQL, Bitbucket
 
 ### Early Career | Various Locations | 2012 – 2020
 

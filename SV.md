@@ -36,9 +36,10 @@ tjänster som förbättrar gränsöverskridande tillgång till information, äre
 - Byggde backend-funktionalitet med Java och Quarkus
 - Utvecklade frontend-funktioner med Vue för digitala offentliga tjänster
 - Arbetade med containerbaserade driftsättningar och GitOps-baserade leveranser på OpenShift med ArgoCD
+- Designade och implementerade CI/CD-pipelines för automatiserad testning och Q&A
 - Samarbetade i ett agilt team för att leverera säkra, underhållbara och skalbara lösningar för offentlig digitalisering
 - Bidrog till integrationer och förbättringar av tjänster som stödjer EU-regulatoriska krav
-- **Tekniker**: Java, Quarkus, Vue, OpenShift, ArgoCD
+- **Tekniker**: Java, Quarkus, Vue, OpenShift, ArgoCD, Gitlab
 
 ### Software Engineer Consultant | Omegapoint | Stockholm | Augusti 2024 – Februari 2025
 
@@ -51,7 +52,7 @@ Omegapoint är ett IT-konsultbolag specialiserat på IT-säkerhet som tillhandah
 - Fördjupade teknisk kompetens inom AWS, Golang, gRPC och Kubernetes genom kontinuerligt lärande och praktisk
   implementering
 - Använde GitHub och Azure DevOps för versionshantering och projektledning
-- **Tekniker**: C#, .NET, React, Next.js, Vite, Golang, Java, AWS, Kubernetes, gRPC, Terraform
+- **Tekniker**: C#, .NET, React, Next.js, Vite, Golang, Java, AWS, Kubernetes, gRPC, Terraform, Github
 
 ### Forward Deployed Engineer | Tele2 | Stockholm | January 2023 – August 2024
 
@@ -72,7 +73,7 @@ Avaya, Cisco och Genesys Cloud.
 - Designade och implementerade CI/CD-pipelines för automatiserad testning och driftsättning
 - Driftsatte applikationer till lokala Kubernetes-kluster, dedikerade servrar och AWS-molninfrastruktur
 - Samarbetade effektivt i agila, tvärfunktionella team med GitLab för versionshantering
-- **Tekniker**: Java, Spring, C#, .NET, React, Golang, Kubernetes, AWS, MSSQL, MongoDB
+- **Tekniker**: Java, Spring, C#, .NET, React, Golang, Kubernetes, AWS, MSSQL, MongoDB, Gitlab
 
 ### Software Engineer | Nordea | Stockholm | November 2021 – January 2023
 
@@ -93,7 +94,7 @@ Verkade inom Private Banking-avdelningen i flera "greenfield"- och "brownfield"-
 - Erbjöd felsökning och support för produktionsstörningar
 - Byggde CI/CD-pipelines för automatiserad driftsättning till lokala Kubernetes-kluster
 - Arbetade kollaborativt i agila team med Jira, Confluence och Bitbucket
-- **Tekniker**: Java, Spring Boot, Kubernetes, MSSQL
+- **Tekniker**: Java, Spring Boot, Kubernetes, MSSQL, Bitbucket
 
 ### Tidig karriär | Olika platser
 
