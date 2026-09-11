@@ -25,9 +25,7 @@ finans, offentliga och konsultsektorn.
 
 ## Professionell erfarenhet
 
-### Software Engineer | Digg – Myndigheten för digital förvaltning, Stockholm
-
-#### Mars 2026 – Nutid
+### Software Engineer | Digg – Myndigheten för digital förvaltning | Stockholm | Mars 2026 – Nutid
 
 Digg är Sveriges centrala myndighet för att samordna och stödja digitaliseringen av den offentliga förvaltningen.
 
@@ -42,9 +40,7 @@ tjänster som förbättrar gränsöverskridande tillgång till information, äre
 - Bidrog till integrationer och förbättringar av tjänster som stödjer EU-regulatoriska krav
 - **Tekniker**: Java, Quarkus, Vue, OpenShift, ArgoCD
 
-### Software Engineer Consultant | Omegapoint, Stockholm
-
-#### Augusti 2024 – Februari 2025
+### Software Engineer Consultant | Omegapoint | Stockholm | Augusti 2024 – Februari 2025
 
 Omegapoint är ett IT-konsultbolag specialiserat på IT-säkerhet som tillhandahåller företagslösningar över hela Sverige.
 
@@ -57,9 +53,7 @@ Omegapoint är ett IT-konsultbolag specialiserat på IT-säkerhet som tillhandah
 - Använde GitHub och Azure DevOps för versionshantering och projektledning
 - **Tekniker**: C#, .NET, React, Next.js, Vite, Golang, Java, AWS, Kubernetes, gRPC, Terraform
 
-### Forward Deployed Engineer | Tele2, Stockholm
-
-#### Januari 2023 – Augusti 2024
+### Forward Deployed Engineer | Tele2 | Stockholm | January 2023 – August 2024
 
 Tele2 är ett ledande telekombolag som levererar tjänster till Sverige och de baltiska länderna.
 
@@ -80,9 +74,7 @@ Avaya, Cisco och Genesys Cloud.
 - Samarbetade effektivt i agila, tvärfunktionella team med GitLab för versionshantering
 - **Tekniker**: Java, Spring, C#, .NET, React, Golang, Kubernetes, AWS, MSSQL, MongoDB
 
-### Software Engineer | Nordea, Stockholm
-
-#### November 2021 – Januari 2023
+### Software Engineer | Nordea | Stockholm | November 2021 – January 2023
 
 Nordea är en av de största finanskoncernerna i Norra Europa som betjänar kunder i hela Norden.
 

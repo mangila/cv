@@ -26,7 +26,7 @@ telecommunications, financial services, public and consulting sectors.
 
 ## Professional Experience
 
-### Software Engineer | Digg – Agency for Digital Government, Stockholm | March 2026 – Present
+### Software Engineer | Digg – Agency for Digital Government | Stockholm | March 2026 – Present
 
 Digg is the Swedish national authority responsible for coordinating and supporting the digitalization of the public
 sector.
@@ -43,7 +43,7 @@ within the EU.
 - Contributed to integrations and service improvements supporting EU regulatory requirements
 - **Technologies**: Java, Quarkus, Vue, OpenShift, ArgoCD
 
-### Software Engineer Consultant | Omegapoint, Stockholm | August 2024 – February 2025
+### Software Engineer Consultant | Omegapoint | Stockholm | August 2024 – February 2025
 
 Omegapoint is an IT consulting company specializing in IT security, providing enterprise solutions to companies across
 Sweden.
@@ -58,7 +58,7 @@ Sweden.
 - GitHub and Azure DevOps for version control and project management
 - **Technologies**: C#, .NET, React, Next.js, Vite, Golang, Java, AWS, Kubernetes, gRPC, Terraform
 
-### Forward Deployed Engineer | Tele2, Stockholm | January 2023 – August 2024
+### Forward Deployed Engineer | Tele2 | Stockholm | January 2023 – August 2024
 
 Tele2 is a leading telecommunications company providing services to Sweden and the Baltic countries.
 
@@ -79,7 +79,7 @@ Genesys Cloud platforms.
 - Collaborated effectively in agile, cross-functional teams using GitLab for version control
 - **Technologies**: Java, Spring, C#, .NET, React, Golang, Kubernetes, AWS, MSQL, MongoDB
 
-### Software Engineer | Nordea, Stockholm | November 2021 – January 2023
+### Software Engineer | Nordea | Stockholm | November 2021 – January 2023
 
 Nordea is one of the largest financial services groups in Northern Europe, serving customers across the Nordic region.
 
